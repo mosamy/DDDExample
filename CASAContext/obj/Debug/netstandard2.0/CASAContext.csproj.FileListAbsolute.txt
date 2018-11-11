@@ -1,0 +1,9 @@
+/home/muhammad/RiderProjects/DDDExample/CASAContext/obj/Debug/netstandard2.0/CASAContext.csprojAssemblyReference.cache
+/home/muhammad/RiderProjects/DDDExample/CASAContext/obj/Debug/netstandard2.0/CASAContext.csproj.CoreCompileInputs.cache
+/home/muhammad/RiderProjects/DDDExample/CASAContext/obj/Debug/netstandard2.0/CASAContext.AssemblyInfoInputs.cache
+/home/muhammad/RiderProjects/DDDExample/CASAContext/obj/Debug/netstandard2.0/CASAContext.AssemblyInfo.cs
+/home/muhammad/RiderProjects/DDDExample/CASAContext/bin/Debug/netstandard2.0/CASAContext.deps.json
+/home/muhammad/RiderProjects/DDDExample/CASAContext/bin/Debug/netstandard2.0/CASAContext.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContext/bin/Debug/netstandard2.0/CASAContext.pdb
+/home/muhammad/RiderProjects/DDDExample/CASAContext/obj/Debug/netstandard2.0/CASAContext.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContext/obj/Debug/netstandard2.0/CASAContext.pdb
