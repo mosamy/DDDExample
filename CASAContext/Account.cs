@@ -8,15 +8,16 @@ namespace CASAContext
 {
     public  class Account : DomainObject
     {
+        private Client _primaryClient;
         public Adviser PrimaryAdviser { get; set; }
         
         public Client PrimaryClient
         {
-            get { return this.PrimaryClient; }
+            get { return _primaryClient; }
             set
             {
-                this.PrimaryClient = value;
-                Clients.Add(this.PrimaryClient);
+                _primaryClient = value;
+                Clients.Add(_primaryClient);
             } 
         }
         private List<Client> Clients = new List<Client>();
@@ -33,6 +34,13 @@ namespace CASAContext
             var clt = Clients.Find(c => c.Identfier == identifier);
            // Client c = from clt in Clients where clt.Identifier = identifier sele
             return clt;
+        }
+
+        public void AddAsset(Asset a)
+        {
+            if (!Assets.Contains(a)){
+                Assets.Add(a);
+            }
         }
 
         public List<Asset> getAssets()

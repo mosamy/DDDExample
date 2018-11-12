@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http.Headers;
+using System.Net.WebSockets;
 
 namespace CASAContext
 {
@@ -22,13 +24,28 @@ namespace CASAContext
             CustodialAccount acc = new CustodialAccount();
 
             CaAccounts = CustAccounts.GroupBy(c => new {c.PrimaryClient, c.PrimaryAdviser, c.PrimaryClient.Suitablity})
-                    .Select(a =>
-                    new CambridgeAccount(a.Key.PrimaryClient, a.Key.PrimaryAdviser)
-                    ).ToList();
+                //.Select(a=> a.ToList().ForEach())    
+
+                .Select(a => 
+                {
+                    CambridgeAccount ca = new CambridgeAccount(a.Key.PrimaryClient, a.Key.PrimaryAdviser);
+                    a.ToList().ForEach(account => ca.AddCustAccount(account));
+                    return ca;
+                }).ToList();
+            
+       
+
+
+
+            //.Select(ca => CustAccounts.FindAll(cua => cua.PrimaryClient ==  ca.PrimaryClient && cua.PrimaryAdviser == ca.PrimaryAdviser ).ForEach(resacc => ca.AddCustAccount(resacc)))).getCambridgeAccounts();
 
             //.Select(new CambridgeAccount(CAAcct.PrilmaryClient, CAAcct.PrimaryAdviser)).ToList();
         }
 
+        public List<CambridgeAccount> getCambridgeAccounts()
+        {
+            return CaAccounts;
+        }
         public void OnCompleted()
         {
             throw new NotImplementedException();

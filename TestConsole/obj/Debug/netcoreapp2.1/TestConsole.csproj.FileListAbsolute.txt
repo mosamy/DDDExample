@@ -1,0 +1,14 @@
+/home/muhammad/RiderProjects/DDDExample/TestConsole/bin/Debug/netcoreapp2.1/TestConsole.deps.json
+/home/muhammad/RiderProjects/DDDExample/TestConsole/bin/Debug/netcoreapp2.1/TestConsole.runtimeconfig.json
+/home/muhammad/RiderProjects/DDDExample/TestConsole/bin/Debug/netcoreapp2.1/TestConsole.runtimeconfig.dev.json
+/home/muhammad/RiderProjects/DDDExample/TestConsole/bin/Debug/netcoreapp2.1/TestConsole.dll
+/home/muhammad/RiderProjects/DDDExample/TestConsole/bin/Debug/netcoreapp2.1/TestConsole.pdb
+/home/muhammad/RiderProjects/DDDExample/TestConsole/bin/Debug/netcoreapp2.1/CASAContext.dll
+/home/muhammad/RiderProjects/DDDExample/TestConsole/bin/Debug/netcoreapp2.1/CASAContext.pdb
+/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/Debug/netcoreapp2.1/TestConsole.csprojAssemblyReference.cache
+/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/Debug/netcoreapp2.1/TestConsole.csproj.CoreCompileInputs.cache
+/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/Debug/netcoreapp2.1/TestConsole.AssemblyInfoInputs.cache
+/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/Debug/netcoreapp2.1/TestConsole.AssemblyInfo.cs
+/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/Debug/netcoreapp2.1/TestConsole.csproj.CopyComplete
+/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/Debug/netcoreapp2.1/TestConsole.dll
+/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/Debug/netcoreapp2.1/TestConsole.pdb

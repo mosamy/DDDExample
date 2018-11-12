@@ -6,10 +6,10 @@ namespace CASAContext
     public class CambridgeAccount : Account, IObserver<DomainObject>
     {
 
-        public Client client { get; set; }
+        //public Client client { get; set; }
         public  Suitability suitability { get; set; }
-        public  Adviser adviser { get; set; }
-        private List<CustodialAccount> _accounts;
+        //public  Adviser adviser { get; set; }
+        private List<CustodialAccount> _accounts = new List<CustodialAccount>();
 
         public void AddCustAccount(CustodialAccount a)
         {
@@ -19,14 +19,14 @@ namespace CASAContext
 
         public CambridgeAccount(Client c, Adviser a)
         {
-            client = c;
+            this.PrimaryClient = c;
             suitability = c.Suitablity;
-            adviser = a;
-            this.Identfier = int.Parse(client.Identfier.ToString() + suitability.Identfier.ToString() +
-                                       adviser.Identfier.ToString());
-            client.Subscribe(this);
+            this.PrimaryAdviser = a;
+            this.Identfier = int.Parse(c.Identfier.ToString() + suitability.Identfier.ToString() +
+                                       a.Identfier.ToString());
+            this.PrimaryClient.Subscribe(this);
             suitability.Subscribe(this);
-            adviser.Subscribe(this);
+            this.PrimaryAdviser.Subscribe(this);
 
         }
 

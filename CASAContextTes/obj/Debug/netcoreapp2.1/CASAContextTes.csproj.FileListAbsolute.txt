@@ -1,0 +1,17 @@
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/CASAContextTes.deps.json
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/CASAContextTes.runtimeconfig.json
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/CASAContextTes.runtimeconfig.dev.json
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/CASAContextTes.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/CASAContextTes.pdb
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/CASAContext.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/bin/Debug/netcoreapp2.1/CASAContext.pdb
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/obj/Debug/netcoreapp2.1/CASAContextTes.csprojAssemblyReference.cache
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/obj/Debug/netcoreapp2.1/CASAContextTes.csproj.CoreCompileInputs.cache
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/obj/Debug/netcoreapp2.1/CASAContextTes.AssemblyInfoInputs.cache
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/obj/Debug/netcoreapp2.1/CASAContextTes.AssemblyInfo.cs
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/obj/Debug/netcoreapp2.1/CASAContextTes.csproj.CopyComplete
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/obj/Debug/netcoreapp2.1/CASAContextTes.dll
+/home/muhammad/RiderProjects/DDDExample/CASAContextTes/obj/Debug/netcoreapp2.1/CASAContextTes.pdb

@@ -1,0 +1,17 @@
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/obj/Debug/netcoreapp2.1/TestCASAContext.csprojAssemblyReference.cache
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/obj/Debug/netcoreapp2.1/TestCASAContext.csproj.CoreCompileInputs.cache
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/obj/Debug/netcoreapp2.1/TestCASAContext.AssemblyInfoInputs.cache
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/obj/Debug/netcoreapp2.1/TestCASAContext.AssemblyInfo.cs
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/TestCASAContext.deps.json
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/TestCASAContext.runtimeconfig.json
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/TestCASAContext.runtimeconfig.dev.json
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/TestCASAContext.dll
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/TestCASAContext.pdb
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/CASAContext.dll
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/bin/Debug/netcoreapp2.1/CASAContext.pdb
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/obj/Debug/netcoreapp2.1/TestCASAContext.csproj.CopyComplete
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/obj/Debug/netcoreapp2.1/TestCASAContext.dll
+/home/muhammad/RiderProjects/DDDExample/TestCASAContext/obj/Debug/netcoreapp2.1/TestCASAContext.pdb

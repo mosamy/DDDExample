@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/muhammad/RiderProjects/DDDExample/TestConsole/TestConsole.csproj",
+    "projectName": "TestConsole",
+    "projectPath": "/home/muhammad/RiderProjects/DDDExample/TestConsole/TestConsole.csproj",
+    "outputPath": "/home/muhammad/RiderProjects/DDDExample/TestConsole/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "/home/muhammad/RiderProjects/DDDExample/CASAContext/CASAContext.csproj": {
+            "projectPath": "/home/muhammad/RiderProjects/DDDExample/CASAContext/CASAContext.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
